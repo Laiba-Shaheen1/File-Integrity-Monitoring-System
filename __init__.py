@@ -1,1 +1,1 @@
-# pages package
+# gui package
